@@ -1,4 +1,4 @@
-<h1 align="center">📱 Android App Multiverse by [Your Name]</h1>
+<h1 align="center">📱 Android App Multiverse by Deepak Jadhav</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Projects-brightgreen?style=flat-square&logo=android" />
   <img src="https://img.shields.io/badge/Kotlin-💜-purple?style=flat-square&logo=kotlin" />
