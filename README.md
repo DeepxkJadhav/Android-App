@@ -47,4 +47,16 @@ This universe of apps is powered by:
 ├── 🔒 App4/
 └── 📎 README.md
 
+Name: Deepak Jadhav
+Role: Android Developer
+Location: Somewhere Between Kotlinland and XML Galaxy
+Mission: Build apps that are useful, beautiful, and performant.
+
+🌐 Website: Not Yet
+
+🧑‍💼 LinkedIn: linkedin.com/in/
+
+🐙 GitHub: github.com/yourusername
+
+
 
