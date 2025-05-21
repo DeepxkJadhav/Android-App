@@ -1,0 +1,3 @@
+# Architecture
+
+Hexagonal, MVVM + Clean
